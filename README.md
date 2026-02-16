@@ -124,6 +124,5 @@ http://localhost:8501
 
 ## 👨‍💻 Author
 
-Your Name
 MCA (AI & ML) Student
 AI/ML & Generative AI Enthusiast
